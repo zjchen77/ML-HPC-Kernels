@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ML & HPC Kernels and Plugins Collection
 
 This repository is a collection of kernels and plugins I developed or reproduced for Machine Learning (ML) and High Performance Computing (HPC).
@@ -18,3 +19,6 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/YourUsername/YourRepoName.git
+=======
+# ML-HPC-Kernels
+>>>>>>> origin/main
